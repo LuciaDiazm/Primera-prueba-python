@@ -1,0 +1,12 @@
+Probar el 500 con cURL y anotar----------
+HTTP/1.1 500 Internal Server Error
+Date: Wed, 30 Sep 2026 19:05:01 GMT
+Server: WSGIServer/0.2 CPython/3.14.6
+Content-Type: application/json
+Vary: Accept, Cookie
+Allow: GET, HEAD, OPTIONS
+X-Frame-Options: DENY
+Content-Length: 53
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Cross-Origin-Opener-Policy: same-origin
